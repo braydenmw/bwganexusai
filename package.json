@@ -1,0 +1,19 @@
+
+{
+  "name": "bwga-nexus-backend",
+  "version": "1.0.0",
+  "description": "Backend services for the BWGA Nexus AI application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BWGA",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@google/genai": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
